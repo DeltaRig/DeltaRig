@@ -3,7 +3,8 @@
 
 an Computer Cience student at PUCRS in Porto Alegre, Brazil.
 
-- I’m currently working as an Financials Soft Eng Intern at Dell Tecnologies.
+- 👩‍💻 I’m currently working as an Financials Soft Eng Intern at Dell Tecnologies.
+- ⚡ Technologies:  C#, Java and C.
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=deltarig&show_icons=true&theme=buefy" alt="Dani Stats" width="40%" /> ](https://github.com/DeltaRig)
 
