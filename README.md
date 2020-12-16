@@ -10,7 +10,7 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=deltarig&show_icons=true&theme=buefy" alt="Dani Stats" width="40%" /> ](https://github.com/DeltaRig)
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Daniela Rigoli&logoColor=white&link=https://www.linkedin.com/in/daniela-rigoli-304b9b190/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniela-rigoli-304b9b190/)
 
 
 <!--
