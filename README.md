@@ -1,5 +1,5 @@
 ### Hi there! 
-### I'm Daniela Rigoli, 21 years old 💻
+### I'm Daniela Rigoli 💻
 
 an Computer Cience student at PUCRS in Porto Alegre, Brazil.
 
