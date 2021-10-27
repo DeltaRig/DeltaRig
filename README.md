@@ -4,7 +4,7 @@
 an Computer Cience student at PUCRS in Porto Alegre, Brazil.
 
 - 👩‍💻 I’m currently working as an Full Stack Java Software Developer in Financials Team of Dell Tecnologies.
-  - In my work I use mostly Java (JSP, Servlets and JDBC), SQL Server and Oracle.
+  - In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
 - ⚡ Technologies:  
   - Object-oriented programming (Java, C#, Dart, Python, C, PHP)
   - Databases (Microsoft SQL Server, Oracle, MySQL)
