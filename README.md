@@ -11,7 +11,7 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
   - Frameworks: .Net Core, .NET Framework, Flutter, JQuery;
   - Functional Programming (Haskell);
 - 🌱 I’m currently learning grafic computation and I am studing more about algorithms optimization.
-- 📖 I’m studing with a program of Full Stack Developer focus .Net. For this program I created and development the repositories that are in my list FSD Training, to review and learn more about C#, DataBase, Front-End using React and in the current phase I will leanr about unit and mock tests.
+- 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or workbalance.
  
 - 📫 How to reach me: 
 
