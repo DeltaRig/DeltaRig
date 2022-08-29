@@ -9,11 +9,11 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
   - Object-oriented programming (Java, C#, Dart, Python, C, PHP);
   - Functional Programming (Haskell);
   - Databases (Microsoft SQL Server, Oracle, MySQL);
-  - Frameworks: .Net Core, .NET Framework, Flutter, JQuery, SwiftUI;
+  - Frameworks: .Net Core, .NET Framework, Flutter, JQuery, [SwiftUI](https://www.linkedin.com/feed/update/urn:li:share:6958912077579075584?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post);
   - Test Automation: Selenium, Cypress and unit tests
 
 - 🌱 I’m currently learning more about artificial intelligence and software architecture on university, also I am studing Cypress and I intend to start to study Angular soon. 
-- 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or workbalance. 🎈
+- 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or work balance. 🎈
  
 - 📫 How to reach me: 
 
