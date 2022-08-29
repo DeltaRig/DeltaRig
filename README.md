@@ -7,11 +7,13 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
   - 🔭 In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
 - ⚡ Technologies:  
   - Object-oriented programming (Java, C#, Dart, Python, C, PHP);
-  - Databases (Microsoft SQL Server, Oracle, MySQL);
-  - Frameworks: .Net Core, .NET Framework, Flutter, JQuery;
   - Functional Programming (Haskell);
-- 🌱 I’m currently learning grafic computation and I am studing more about algorithms optimization.
-- 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or workbalance.
+  - Databases (Microsoft SQL Server, Oracle, MySQL);
+  - Frameworks: .Net Core, .NET Framework, Flutter, JQuery, SwiftUI;
+  - Test Automation: Selenium, Cypress and unit tests
+
+- 🌱 I’m currently learning more about artificial intelligence and software architecture on university, also I am studing Cypress and I intend to start to study Angular soon. 
+- 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or workbalance. 🎈
  
 - 📫 How to reach me: 
 
