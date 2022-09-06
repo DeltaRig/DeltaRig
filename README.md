@@ -6,9 +6,9 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
 - 👩‍💻 I’m currently working as an Full Stack Java Software Developer in Financials Team of Dell Technologies.
   - 🔭 In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
 - ⚡ Technologies:  
-  - Object-oriented programming (Java, C#, Dart, Python, C, PHP);
-  - Functional Programming (Haskell);
-  - Databases (Microsoft SQL Server, Oracle, MySQL);
+  - Object-oriented programming: Java, C#, Dart, Python, C, PHP;
+  - Functional Programming: [Haskell](https://github.com/DeltaRig/FunctionalPrograming);
+  - [Databases](https://www.hackerrank.com/certificates/3761ae5b31af): Microsoft SQL Server, Oracle, MySQL;
   - Frameworks: .Net Core, .NET Framework, Flutter, JQuery, [SwiftUI](https://www.linkedin.com/feed/update/urn:li:share:6958912077579075584?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post);
   - Test Automation: Selenium, Cypress and unit tests
 
