@@ -1,7 +1,7 @@
 ### Hi there! 
 ### I'm Daniela Rigoli 💻
 
-an Computer Cience student at PUCRS in Porto Alegre, Brazil.
+an Computer Science student at PUCRS in Porto Alegre, Brazil.
 
 - 👩‍💻 I’m currently working as an Full Stack Java Software Developer in Financials Team of Dell Technologies.
   - 🔭 In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
@@ -15,7 +15,7 @@ an Computer Cience student at PUCRS in Porto Alegre, Brazil.
   - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript)
   - Data Science: Processing Natural Language, Computer Vision.
 
-- 🌱 I’m currently learning more about network fundamentals and machine learning on university, also I am studing Angular. I start my completion of course work in computer science about computer vision.
+- 🌱 I’m currently learning more about network fundamentals and machine learning on university, also I am studying Angular. I start my completion of course work in computer science about computer vision.
 - 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or work balance. 🎈
  
 - 📫 How to reach me: 
