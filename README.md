@@ -10,7 +10,7 @@ an Computer Science student at PUCRS in Porto Alegre, Brazil.
   - Functional Programming: [Haskell](https://github.com/DeltaRig/FunctionalPrograming);
   - [Databases](https://www.hackerrank.com/certificates/3761ae5b31af): Microsoft SQL Server, Oracle, MySQL;
   - Front-end Frameworks: [React](https://github.com/DeltaRig/First-React-Program), [Angular](https://github.com/DeltaRig/Angular), Flutter, [SwiftUI](https://www.linkedin.com/feed/update/urn:li:share:6958912077579075584?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post);
-  - Back-end Frameworks: .Net Core, .NET Framework, JQuery;
+  - Back-end Frameworks: Hibernate, .Net Core, .NET Framework, JQuery;
   - Test Automation: Selenium, [Cypress](https://github.com/DeltaRig/Cypress) and unit tests
   - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript)
   - Data Science: Processing Natural Language, Computer Vision.
