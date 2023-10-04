@@ -15,7 +15,7 @@ an Computer Science student at PUCRS in Porto Alegre, Brazil.
   - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript)
   - Data Science: Processing Natural Language, Computer Vision.
 
-- 🌱 I’m currently learning more about network fundamentals and machine learning on university, also I am studying Angular. I start my completion of course work in computer science about computer vision.
+- 🌱 I’m currently learning more about network fundamentals and machine learning on university, also I am studying Angular. I start my thesis in computer science on recognition of cigarettes thefts using computer vision.
 - 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or work balance. 🎈
  
 - 📫 How to reach me: 
