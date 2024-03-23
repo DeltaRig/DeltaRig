@@ -6,16 +6,16 @@ an Computer Science student at PUCRS in Porto Alegre, Brazil.
 - 👩‍💻 I’m currently working as an Full Stack Java Software Developer in Financials Team of Dell Technologies.
   - 🔭 In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
 - ⚡ Technologies:  
-  - Object-oriented programming: Java, C#, Dart, Python, C, PHP;
+  - Object-oriented programming: Java, C#, Dart, Python, C, C++, PHP;
   - Functional Programming: [Haskell](https://github.com/DeltaRig/FunctionalPrograming);
   - [Databases](https://www.hackerrank.com/certificates/3761ae5b31af): Microsoft SQL Server, Oracle, MySQL;
   - Front-end Frameworks: [React](https://github.com/DeltaRig/First-React-Program), [Angular](https://github.com/DeltaRig/Angular), Flutter, [SwiftUI](https://www.linkedin.com/feed/update/urn:li:share:6958912077579075584?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post);
   - Back-end Frameworks: Hibernate, .Net Core, .NET Framework, JQuery;
   - Test Automation: Selenium, [Cypress](https://github.com/DeltaRig/Cypress) and unit tests
-  - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript)
+  - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript), PowerShell Scripts
   - Data Science: Processing Natural Language, Computer Vision.
 
-- 🌱 I’m currently learning more about network fundamentals and machine learning on university, also I am studying Angular. I start my thesis in computer science on recognition of cigarettes thefts using computer vision.
+- 🌱 I’m currently learning more about cybersecurity, parallel and distributed algorithms. I started my thesis in computer science on recognition of cigarettes thefts using computer vision.
 - 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or work balance. 🎈
  
 - 📫 How to reach me: 
