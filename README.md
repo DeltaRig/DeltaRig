@@ -1,10 +1,10 @@
 ### Hi there! 
 ### I'm Daniela Rigoli 💻
 
-an Computer Science student at PUCRS in Porto Alegre, Brazil.
+I'm currently pursuing a master's degree in Computer Science, having completed an undergraduate thesis focused on the recognition of cigarette thefts in supermarkets using computer vision. I
 
-- 👩‍💻 I’m currently working as an Full Stack Java Software Developer in Financials Team of Dell Technologies.
-  - 🔭 In my work I use mostly Java (Hibernate, JSP, Servlets and JDBC), SQL Server and Oracle.
+- 👩‍💻 I’m working as an Software Engineer at Dell Technologies.
+  
 - ⚡ Technologies:  
   - Object-oriented programming: Java, C#, Dart, Python, C, C++, PHP;
   - Functional Programming: [Haskell](https://github.com/DeltaRig/FunctionalPrograming);
@@ -15,7 +15,7 @@ an Computer Science student at PUCRS in Porto Alegre, Brazil.
   - Script files: [Batch Script](https://github.com/DeltaRig/BatchScript), PowerShell Scripts
   - Data Science: Processing Natural Language, Computer Vision.
 
-- 🌱 I’m currently learning more about cybersecurity, parallel and distributed algorithms. I started my thesis in computer science on recognition of cigarettes thefts using computer vision.
+- 🌱 I’m currently learning more about artificial intelligence and parallel algorithms.
 - 📖 I am passionate for learn so I am ever studying something that I can apply in my career, my personal life or work balance. 🎈
  
 - 📫 How to reach me: 
