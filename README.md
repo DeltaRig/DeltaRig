@@ -1,7 +1,7 @@
 ### Hi there! 
 ### I'm Daniela Rigoli 💻
 
-I'm currently pursuing a master's degree in Computer Science, having completed an undergraduate thesis focused on the recognition of cigarette thefts in supermarkets using computer vision. I
+I'm currently pursuing a master's degree in Computer Science, having completed an undergraduate thesis focused on the recognition of cigarette thefts in supermarkets using computer vision.
 
 - 👩‍💻 I’m working as an Software Engineer at Dell Technologies.
   
