@@ -1,7 +1,7 @@
 ### Hi there! 
 ### I'm Daniela Rigoli 💻
 
-I have master's degree in Computer Science. My dissertation was about Investigating the Scalability of Parallel DTW Distance Computations of Stock Price Time Series. And undergraduate thesis focused on the recognition of cigarette thefts in supermarkets using computer vision.
+I have master's degree in Computer Science. My dissertation was about [Investigating the Scalability of Parallel DTW Distance Computations of Stock Price Time Series](https://sol.sbc.org.br/index.php/sscad/article/view/46672/46430). And undergraduate thesis focused on the recognition of cigarette thefts in supermarkets using computer vision.
 
 - 👩‍💻 I’m working as an Software Engineer at Dell Technologies. Most part of time with Javascript and IA related tools.
   
